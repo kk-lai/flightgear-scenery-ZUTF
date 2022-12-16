@@ -1,7 +1,7 @@
 data/*
 work/*
 shared/*
-*.pki
+*.pkl
 *.log
 *.bat
 *.ini
