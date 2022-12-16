@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <name>Kevin King</name>
+  <parkingList>
+<Parking index="1" type="ga" lat="N30 18.508" lon="E104 25.848" heading="203" radius="40" name="" number="167" />
+<Parking index="2" type="ga" lat="N30 18.485" lon="E104 25.911" heading="203" radius="40" name="" number="166" />
+<Parking index="3" type="gate" lat="N30 19.204" lon="E104 26.311" heading="85.2" radius="18" name="" number="110" />
+<Parking index="4" type="gate" lat="N30 19.007" lon="E104 26.098" heading="171.8" radius="18" name="" number="120" />
+<Parking index="5" type="gate" lat="N30 18.536" lon="E104 26.293" heading="334.4" radius="18" name="" number="139" />
+<Parking index="6" type="gate" lat="N30 18.556" lon="E104 26.304" heading="291.7" radius="18" name="" number="140" />
+<Parking index="7" type="gate" lat="N30 18.58" lon="E104 26.315" heading="291.7" radius="18" name="" number="141" />
+<Parking index="8" type="gate" lat="N30 18.604" lon="E104 26.326" heading="291.7" radius="18" name="" number="142" />
+<Parking index="9" type="gate" lat="N30 18.63" lon="E104 26.337" heading="291.7" radius="18" name="" number="143" />
+<Parking index="10" type="gate" lat="N30 18.654" lon="E104 26.347" heading="291.7" radius="18" name="" number="144" />
+<Parking index="11" type="gate" lat="N30 18.678" lon="E104 26.36" heading="291.7" radius="18" name="" number="145" />
+<Parking index="12" type="gate" lat="N30 18.478" lon="E104 26.405" heading="84.7" radius="18" name="" number="245" />
+<Parking index="13" type="gate" lat="N30 18.5" lon="E104 26.418" heading="112.4" radius="18" name="" number="246" />
+<Parking index="14" type="gate" lat="N30 18.522" lon="E104 26.428" heading="112.4" radius="18" name="" number="247" />
+<Parking index="15" type="gate" lat="N30 18.544" lon="E104 26.44" heading="112.4" radius="18" name="" number="248" />
+<Parking index="16" type="gate" lat="N30 18.566" lon="E104 26.45" heading="112.4" radius="18" name="" number="249" />
+<Parking index="17" type="gate" lat="N30 18.588" lon="E104 26.461" heading="112.4" radius="18" name="" number="250" />
+<Parking index="18" type="gate" lat="N30 18.611" lon="E104 26.471" heading="112.4" radius="18" name="" number="251" />
+<Parking index="19" type="gate" lat="N30 18.634" lon="E104 26.481" heading="112.4" radius="18" name="" number="252" />
+<Parking index="20" type="gate" lat="N30 19.179" lon="E104 26.348" heading="72.5" radius="33" name="" number="111" />
+<Parking index="21" type="gate" lat="N30 19.133" lon="E104 26.362" heading="83.6" radius="33" name="" number="113" />
+<Parking index="22" type="gate" lat="N30 19.077" lon="E104 26.36" heading="102.1" radius="33" name="" number="114" />
+<Parking index="23" type="gate" lat="N30 19.029" lon="E104 26.339" heading="123" radius="33" name="" number="115" />
+<Parking index="24" type="gate" lat="N30 18.993" lon="E104 26.299" heading="144.7" radius="33" name="" number="116" />
+<Parking index="25" type="gate" lat="N30 18.971" lon="E104 26.25" heading="163.9" radius="33" name="" number="117" />
+<Parking index="26" type="gate" lat="N30 18.966" lon="E104 26.193" heading="182.5" radius="33" name="" number="118" />
+<Parking index="27" type="gate" lat="N30 18.982" lon="E104 26.132" heading="191.7" radius="33" name="" number="119" />
+<Parking index="28" type="gate" lat="N30 19.265" lon="E104 26.349" heading="146.8" radius="40" name="" number="106" />
+<Parking index="29" type="gate" lat="N30 18.551" lon="E104 26.196" heading="53.5" radius="40" name="" number="135" />
+<Parking index="30" type="gate" lat="N30 18.443" lon="E104 26.501" heading="14" radius="40" name="" number="241" />
+
+
+  </parkingList>
+</groundnet>

@@ -1,0 +1,15 @@
+# details_e100n30_e104n30_4660746
+# do not edit below this line
+# Last Written Sat Dec 17 01:22:07 2022
+#
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 104.58523 30.24301 -0.82 -61.5959
+OBJECT_STATIC e100n30_e104n30_4660746dc10.ac 104.56234 30.24500 0.00 90
+OBJECT_STATIC e100n30_e104n30_4660746dc20.ac 104.60390 30.24500 0.00 90
+OBJECT_STATIC e100n30_e104n30_4660746dc30.ac 104.64546 30.24500 0.00 90
+# END details_e100n30_e104n30_4660746
+# details_e100n30_e104n30_4660754
+# do not edit below this line
+# Last Written Sat Dec 17 01:22:58 2022
+#
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 104.58235 30.24764 -0.68 -61.8667
+# END details_e100n30_e104n30_4660754
