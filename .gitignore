@@ -1,0 +1,7 @@
+data/*
+work/*
+shared/*
+*.pki
+*.log
+*.bat
+*.ini
